@@ -10,7 +10,7 @@ This is a theme plugin for grub 2 boot GUI. You can also install it on ventoy (v
 + D **/commen** - Configuration text files and font family files.
 + D **/assets** - OS icons.
 + D **/dist** - Export directory.
-+ F **/runme.sh** - Utilities for installation, export and option.
++ F **/runme.py** - Utilities for installation, export and option.
 + F **/README.md** - This help document.
 
 ## Installation method
@@ -18,8 +18,9 @@ This is a theme plugin for grub 2 boot GUI. You can also install it on ventoy (v
 ### Automatically Install - How to Use Runme
 
 ```bash
-chmod +x ./runme.sh
-./runme.sh <option> [selection]
+python3 -m runme <option> [selection]
+# py -m runme <option> [selection]
+# python -m runme <option> [selection]
 ```
 
 +   **option:**
