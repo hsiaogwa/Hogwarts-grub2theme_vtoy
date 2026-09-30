@@ -9,8 +9,6 @@ title-text: "#{title}"
     height: "$(72%)"
 }
 
-# Custom Icon
-
 # Terminal Window
 terminal-box: "terminal_box_*.png"
 terminal-left: "$(55%)"
@@ -19,3 +17,6 @@ terminal-width: "$(36%)"
 terminal-height: "$(86%)"
 terminal-border: "$(0)"
 
+# Custom Icon
+
+# class-icon <class> ".png"
