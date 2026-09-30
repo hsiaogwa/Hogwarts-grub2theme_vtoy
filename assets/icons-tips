@@ -1,0 +1,111 @@
+========================
+
+__UNKNOWN__
+
+linux
+
+debian
+
+fedora | kernel
+
+arch
+
+rhel | red & hat
+
+apple | mac | ios
+
+========================
+
+ubuntu
+
+suse | leap
+
+tumb
+
+mint
+
+cent
+
+manjaro
+
+elementary
+
+========================
+
+kali
+
+pop | 76 | cosmic
+
+steam & os
+
+chrome & os
+
+geetoo
+
+rocky
+
+zorin
+
+========================
+
+gpart
+
+cachy
+
+endeavours
+
+alma
+
+devuan
+
+kde # KDE neon
+
+nitrux
+
+========================
+
+solus
+
+nixos
+
+4m
+
+artix
+
+viod # Void linux
+
+flat & car
+
+__WARN__
+
+========================
+
+win & (xp | vista | 7)
+
+win & (8 | 10)
+
+win & 11
+
+FreeDos
+
+(mini | ms) & dos
+
+free & bsd
+
+open & bsd
+
+========================
+
+proxmoxve | pve
+
+esxi | vmware
+
+rtos | __TYPE__ # Industrial Controlling Operation System
+
+true & nas | unraid | media | __TYPE__ # Storage System
+
+open & wrt | pf & sense | opnsense | router | __TYPE__ # Firewall & Router System
+
+minix | plan | xv | serenity | __TYPE__ # Education Operation System
+
+xcp & ng | hyper & v | __TYPE__ # Virtuallization System
